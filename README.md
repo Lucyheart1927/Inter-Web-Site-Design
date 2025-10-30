@@ -1,2 +1,2 @@
 myrias-diys-site/
- <li><a href="Home.html">Home</a> </li>
+ <li><a href="Index.html">Home</a> </li>
